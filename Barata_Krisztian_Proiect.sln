@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barata_Krisztian_Proiect", "Barata_Krisztian_Proiect.csproj", "{D862DE09-1841-4F06-A828-6ED0170BFA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagazinLotModel", "..\MagazinLotModel\MagazinLotModel.csproj", "{1E3A338F-E663-498A-8A37-2D46173E6E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D862DE09-1841-4F06-A828-6ED0170BFA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D862DE09-1841-4F06-A828-6ED0170BFA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D862DE09-1841-4F06-A828-6ED0170BFA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D862DE09-1841-4F06-A828-6ED0170BFA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3A338F-E663-498A-8A37-2D46173E6E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3A338F-E663-498A-8A37-2D46173E6E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3A338F-E663-498A-8A37-2D46173E6E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3A338F-E663-498A-8A37-2D46173E6E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31A4F110-C663-4E3B-9D5A-E5D1C04A8CCD}
+	EndGlobalSection
+EndGlobal
